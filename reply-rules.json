@@ -1,0 +1,734 @@
+{
+  "rules": [
+    {
+      "keyword": "①",
+      "type": "quickReply",
+      "message": "企業型年金制度について",
+      "options": [
+        "a.ご新規様はこちら",
+        "A.ユーザー様はこちら"
+      ]
+    },
+    {
+      "keyword": "②",
+      "type": "quickReply",
+      "message": "サロンボード運用自動化",
+      "options": [
+        "b.ご新規様はこちら",
+        "B.ユーザー様はこちら"
+      ]
+    },
+    {
+      "keyword": "③",
+      "type": "quickReply",
+      "message": "メンズ特化型 カットパーマ講習について",
+      "options": [
+        "c.ご新規様はこちら"
+      ]
+    },
+    {
+      "keyword": "④",
+      "type": "quickReply",
+      "message": "メンズ特化美容商材について",
+      "options": [
+        "031.メンズ特化美容商材",
+        "032.仕入れ希望フォーム"
+      ]
+    },
+    {
+      "keyword": "⑤",
+      "type": "quickReply",
+      "message": "店販在庫ソリューションについて",
+      "options": [
+        "e.ご新規様はこちら",
+        "E.ユーザー様はこちら"
+      ]
+    },
+    {
+      "keyword": "⑥",
+      "type": "quickReply",
+      "message": "AIO・MEO 集客ソリューションについて",
+      "options": [
+        "f.ご新規・ユーザー様はこちら",
+        "F.代理店様はこちら"
+      ]
+    },
+    {
+      "keyword": "❶",
+      "type": "quickReply",
+      "message": "アパレル企画開発販売について",
+      "options": [
+        "061.概要",
+        "062.発注フォーム",
+        "063.開発ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "❷",
+      "type": "quickReply",
+      "message": "映像制作について",
+      "options": [
+        "071.概要",
+        "072.見積もり・ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "❸",
+      "type": "text",
+      "message": "準備中",
+      "options": []
+    },
+    {
+      "keyword": "❹",
+      "type": "text",
+      "message": "準備中",
+      "options": []
+    },
+    {
+      "keyword": "❺",
+      "type": "text",
+      "message": "準備中",
+      "options": []
+    },
+    {
+      "keyword": "❻",
+      "type": "text",
+      "message": "準備中",
+      "options": []
+    },
+    {
+      "keyword": "a",
+      "type": "quickReply",
+      "message": "【ご新規様】企業型年金制度の詳細メニューを選択してください：",
+      "options": [
+        "001.概要",
+        "002.説明動画",
+        "003.対面説明会希望",
+        "004.導入希望フォーム",
+        "005.よくある質問",
+        "009.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "001",
+      "type": "quickReply",
+      "message": "📄 DC概要：\n📢 確定拠出年金（DC）で未来をもっと安心に\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n👩‍💼 従業員のメリット\n✅ 掛金は全額所得控除で節税\n✅ 運用益もまるごと非課税\n✅ 原則60歳まで引き出せず、確実に老後資金を確保\n\n🏢 会社のメリット\n✅ 福利厚生の充実で採用・定着率アップ\n✅ 掛金は全額損金計上で節税効果\n✅ 社員の将来を守る企業ブランド力アップ\n\n🤝 双方にとってメリットあり！\n社員は「安心な老後資金」を、会社は「強い組織力」を手に入れられる制度です✨\n\nランディングページ\n　サロン向け：https://kichi2024.xsrv.jp/LP-DC.html\n　他業種向け：https://kichi2024.xsrv.jp/LP-DC-Normal.html",
+      "options": [
+        "001.概要",
+        "002.説明動画",
+        "003.対面説明会希望",
+        "004.導入希望フォーム",
+        "005.よくある質問",
+        "009.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "002",
+      "type": "quickReply",
+      "message": "▶️ 説明動画：準備中",
+      "options": [
+        "001.概要",
+        "002.説明動画",
+        "003.対面説明会希望",
+        "004.導入希望フォーム",
+        "005.よくある質問",
+        "009.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "003",
+      "type": "quickReply",
+      "message": "📅 対面説明会フォーム：https://forms.gle/h5JpiqcrAgAFTkq47",
+      "options": [
+        "001.概要",
+        "002.説明動画",
+        "003.対面説明会希望",
+        "004.導入希望フォーム",
+        "005.よくある質問",
+        "009.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "004",
+      "type": "quickReply",
+      "message": "📝 導入希望フォーム： 準備中",
+      "options": [
+        "001.概要",
+        "002.説明動画",
+        "003.対面説明会希望",
+        "004.導入希望フォーム",
+        "005.よくある質問",
+        "009.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "005",
+      "type": "quickReply",
+      "message": "📄 よくある質問PDF：準備中",
+      "options": [
+        "001.概要",
+        "002.説明動画",
+        "003.対面説明会希望",
+        "004.導入希望フォーム",
+        "005.よくある質問",
+        "009.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "A",
+      "type": "quickReply",
+      "message": "【ユーザー様】企業年金制度に関するご案内：",
+      "options": [
+        "201.残高の確認方法",
+        "202.加入手続きについて",
+        "203.離職による手続きについて",
+        "208.よくある質問",
+        "209.お問い合わせフォーム"
+      ]
+    },
+    {
+      "keyword": "201",
+      "type": "text",
+      "message": "💰 残高の確認方法：準備中",
+      "options": []
+    },
+    {
+      "keyword": "202",
+      "type": "text",
+      "message": "📝 加入手続きフォーム：https://forms.gle/oGk9hbjo3thEEGe2A",
+      "options": []
+    },
+    {
+      "keyword": "203",
+      "type": "text",
+      "message": "📄 離職時手続きフォーム：準備中",
+      "options": []
+    },
+    {
+      "keyword": "208",
+      "type": "text",
+      "message": "📄 よくある質問：準備中",
+      "options": []
+    },
+    {
+      "keyword": "209",
+      "type": "text",
+      "message": "📩 お問い合わせフォーム：準備中",
+      "options": []
+    },
+    {
+      "keyword": "b",
+      "type": "quickReply",
+      "message": "サロンボード自動運用の詳細メニューを選択してください：",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "011",
+      "type": "quickReply",
+      "message": "📄 概要：\n\n💻 サロンボード自動運用サービス\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n📌 自動化できる機能\n✅ ブログ記事の自動更新（月200件〜）\n✅ AIによるブログ記事の生成\n✅ スタイル写真自動アップロード（月200件〜）\n\n✨ 導入メリット（5POINT）\n1️⃣ 更新作業の手間を大幅削減!\n2️⃣ ブログ＆スタイル更新で新規集客UP\n3️⃣ 常に最新情報を掲載し、リピーター維持\n4️⃣ 更新漏れゼロで機会損失防止\n5️⃣ スタッフは施術や接客に専念できる\n\nLP：https://kichi2024.group/",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "012",
+      "type": "quickReply",
+      "message": "▶️ 説明動画：準備中",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "013",
+      "type": "quickReply",
+      "message": "📅 対面説明会フォーム：https://forms.gle/1MatyqVniAn1RLi76",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "014",
+      "type": "quickReply",
+      "message": "📝 導入希望フォーム：https://forms.gle/dK5EMSUJDLx7EJD69",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "015",
+      "type": "quickReply",
+      "message": "📄 よくある質問：準備中",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "019",
+      "type": "quickReply",
+      "message": "📄 お問い合わせ：https://forms.gle/YQkgUdQXZcyVAnb28",
+      "options": [
+        "011.概要",
+        "012.説明動画",
+        "013.対面説明会希望",
+        "014.導入希望フォーム",
+        "015.よくある質問",
+        "019.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "c",
+      "type": "quickReply",
+      "message": "【メンズカット・パーマ講習】下記よりお選びください。",
+      "options": [
+        "021.概要",
+        "022.お申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "021",
+      "type": "quickReply",
+      "message": "📄 概要\n年間来客数3万人・パーマ比率70パーセント超！\nメンズサロンRISEによる、メンズ特化のカット・パーマ講習。\n\n・見て学ぶ \"デモンストレーション講習\"\n・実際に手を動かしながら学ぶ \"実践型講習\"\nの２つからお選びいただけます。\nデモンストレーションに関してはオンラインでの受講も可能です。\n\n--------------------------------------------------\n●デモンストレーション講習\n  所要時間:2-3時間 / 費用:3万円\n　・メンズカット\n　・メンズパーマ\n　・メンズカット＆パーマ\n\n●実践型講習メニュー \n　所要時間:3-5時間 / 費用:5万円\n　・メンズカット\n　・メンズパーマ\n　・メンズカット＆パーマ\n--------------------------------------------------\n\nご希望の方はお申し込みフォームよりお問い合わせください。",
+      "options": [
+        "021.概要",
+        "022.お申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "022",
+      "type": "quickReply",
+      "message": "📩 お申込フォーム：https://forms.gle/L2Q8jc8nCw65hiq38",
+      "options": [
+        "021.概要",
+        "022.お申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "d",
+      "type": "quickReply",
+      "message": "【メンズ向け商材メニュー】下記よりお選びください。",
+      "options": [
+        "031.メンズ特化美容商材",
+        "032.仕入れ希望フォーム"
+      ]
+    },
+    {
+      "keyword": "031",
+      "type": "text",
+      "message": "カードメニューをスワイプしてご覧ください。",
+      "options": []
+    },
+    {
+      "keyword": "032",
+      "type": "text",
+      "message": "📄仕入れ希望フォーム：準備中",
+      "options": []
+    },
+    {
+      "keyword": "e",
+      "type": "quickReply",
+      "message": "🎁モール型ECサイトLILASのご案内",
+      "options": [
+        "041.概要",
+        "042.説明会希望フォーム",
+        "043.契約フォーム",
+        "044. LILAS  TOP ページ"
+      ]
+    },
+    {
+      "keyword": "041",
+      "type": "quickReply",
+      "message": "📄 概要：https://drive.google.com/file/d/1gFsexw0b78OdCoWrPAbgZNngeVzOtDZt/view?usp=sharing",
+      "options": [
+        "041.概要",
+        "042.説明会希望フォーム",
+        "043.契約フォーム",
+        "044. LILAS  TOP ページ"
+      ]
+    },
+    {
+      "keyword": "042",
+      "type": "quickReply",
+      "message": "🗓️ 説明会希望フォーム：https://forms.gle/dMaVwYaas65nKoi29",
+      "options": [
+        "041.概要",
+        "042.説明会希望フォーム",
+        "043.契約フォーム",
+        "044. LILAS  TOP ページ"
+      ]
+    },
+    {
+      "keyword": "043",
+      "type": "quickReply",
+      "message": "📄契約フォーム：https://forms.gle/xoNwZ72FftCHzMGj7",
+      "options": [
+        "041.概要",
+        "042.説明会希望フォーム",
+        "043.契約フォーム",
+        "044. LILAS  TOP ページ"
+      ]
+    },
+    {
+      "keyword": "044",
+      "type": "quickReply",
+      "message": "🛒 LILAS公式サイト：https://gqvrxq-z7.myshopify.com/",
+      "options": [
+        "041.概要",
+        "042.説明会希望フォーム",
+        "043.契約フォーム",
+        "044. LILAS  TOP ページ"
+      ]
+    },
+    {
+      "keyword": "061",
+      "type": "quickReply",
+      "message": "概要：準備中",
+      "options": [
+        "061.概要",
+        "062.発注フォーム",
+        "063.開発ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "062",
+      "type": "quickReply",
+      "message": "発注フォーム：準備中",
+      "options": [
+        "061.概要",
+        "062.発注フォーム",
+        "063.開発ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "063",
+      "type": "quickReply",
+      "message": "開発ヒアリングフォーム：準備中",
+      "options": [
+        "061.概要",
+        "062.発注フォーム",
+        "063.開発ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "f",
+      "type": "quickReply",
+      "message": "AIO・MEO 集客ソリューションについて",
+      "options": [
+        "071.概要",
+        "072.説明会希望フォーム",
+        "073.申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "071",
+      "type": "quickReply",
+      "message": "概要\n\n“検索” の時代から“提案”される時代に。\n 2026年、AIで出てこない店は“存在しない”のと同じ。\n\nみなさんご存知ですか？\nここ半年(2026上半期)のAIで来店動機や検索をするユーザーは全体の33%もいます。\nこれからどんどん増加していくことが見込まれています。\n\n〜従来の集客方法〜\nGoogleマップ(MEO)とSEO\n\n〜最新〜\n・AI検索の対策(AIO)\n・AIに選ばれやすい口コミ文の生成(AIO強化)\n・GBPの質向上(MEOの強化)\n・SNSまでまとめて対策、強化する\n\nこれらのことを担ってくれるシステムです🔥\n\nGoogle社会のアメリカで成果を出してる\n集客のシステムが日本へ上陸🇺🇸\n\n👑契約実績1万店舗以上\n✅契約期間縛りないためいつでもやめれる\n✅低コストパフォーマンス\n\n---------------------------\nプライス\n🌟①AIO対策のみ・・・22000円/月\n🌟②AIO対策+SNS+AIOとMEO強化プラン\n・・・37500円/月\n\nのところ！！⬇️\n\nKICHI会員様は特典として\n①22000▶️20000円/月‼️\n②37500▶️33000円/月‼️\nでご案内させていて頂きます‼️\n\n---------------------------\n\nAIOは来年には当たり前のワードになり\n対策するのがSEOやMEOみたいに\n普通の世の中になります\n今からAIを育てておくと即効果期待でき\n全体が動くタイミングではAIが育ってる\n状態で競争出来るのでアドバンテージがあります\n\n気になる方は説明会希望フォームより是非ご連絡ください",
+      "options": [
+        "071.概要",
+        "072.説明会希望フォーム",
+        "073.申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "072",
+      "type": "quickReply",
+      "message": "説明会希望フォーム\nhttps://forms.gle/9QiNuCdGaE19XbSy9",
+      "options": [
+        "071.概要",
+        "072.説明会希望フォーム",
+        "073.申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "073",
+      "type": "quickReply",
+      "message": "申し込みフォーム\n\n企業用：https://forms.gle/2nJT57czQeHT5Gfw9\n店舗用：https://forms.gle/Ropb5Z3GWMgRjSe57",
+      "options": [
+        "071.概要",
+        "072.説明会希望フォーム",
+        "073.申し込みフォーム"
+      ]
+    },
+    {
+      "keyword": "h",
+      "type": "quickReply",
+      "message": "映像制作",
+      "options": [
+        "081.概要",
+        "082.見積もり・ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "081",
+      "type": "quickReply",
+      "message": "概要",
+      "options": [
+        "081.概要",
+        "082.見積もり・ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "082",
+      "type": "quickReply",
+      "message": "見積もり・ヒアリングフォーム",
+      "options": [
+        "081.概要",
+        "082.見積もり・ヒアリングフォーム"
+      ]
+    },
+    {
+      "keyword": "営業資料",
+      "type": "quickReply",
+      "message": "営業資料メニュー：",
+      "options": [
+        "XX1.GOLF MIX",
+        "XX2.HB自動化",
+        "XX3.LILAS",
+        "XX4.DC",
+        "XX5.事務委託サービス"
+      ]
+    },
+    {
+      "keyword": "XX1",
+      "type": "quickReply",
+      "message": "📄GOLF MIX：https://drive.google.com/file/d/1fcyAxQzdGiEpfs6icxRKMTEWiGqhJbcV/view?usp=sharing",
+      "options": [
+        "XX1.GOLF MIX",
+        "XX2.HB自動化",
+        "XX3.LILAS",
+        "XX4.DC",
+        "XX5.事務委託サービス"
+      ]
+    },
+    {
+      "keyword": "XX2",
+      "type": "quickReply",
+      "message": "📄HB自動化 営業資料：https://drive.google.com/file/d/1c5wm3OB7iQxmyAdZ0Dt4Ugu9R8-TNisP/view?usp=sharing",
+      "options": [
+        "XX1.GOLF MIX",
+        "XX2.HB自動化",
+        "XX3.LILAS",
+        "XX4.DC",
+        "XX5.事務委託サービス"
+      ]
+    },
+    {
+      "keyword": "XX3",
+      "type": "quickReply",
+      "message": "📄LILAS 営業資料：https://drive.google.com/file/d/1cfam_cSeMTFrJ4m-Mr6ZM9_OoB3r3_rb/view?usp=sharing",
+      "options": [
+        "XX1.GOLF MIX",
+        "XX2.HB自動化",
+        "XX3.LILAS",
+        "XX4.DC",
+        "XX5.事務委託サービス"
+      ]
+    },
+    {
+      "keyword": "XX4",
+      "type": "quickReply",
+      "message": "📄DC 営業資料：https://drive.google.com/file/d/1qOzCX7MQvoTFd0q10m1X5aQAMFBz1N5R/view?usp=sharing",
+      "options": [
+        "XX1.GOLF MIX",
+        "XX2.HB自動化",
+        "XX3.LILAS",
+        "XX4.DC",
+        "XX5.事務委託サービス"
+      ]
+    },
+    {
+      "keyword": "XX5",
+      "type": "quickReply",
+      "message": "📄事務委託サービス：https://drive.google.com/file/d/1U5pkOBJaPlPXXBCjAICKv2rM30PeLfI5/view?usp=sharing",
+      "options": [
+        "XX1.GOLF MIX",
+        "XX2.HB自動化",
+        "XX3.LILAS",
+        "XX4.DC",
+        "XX5.事務委託サービス"
+      ]
+    },
+    {
+      "keyword": "B",
+      "type": "quickReply",
+      "message": "サロンボード運用自動化についてのご案内：",
+      "options": [
+        "211.更新内容の変更依頼",
+        "212.エラー報告",
+        "213.ID・PASS変更報告",
+        "214.ご利用料金の支払いについて",
+        "215.契約内容の変更について",
+        "216.目安箱",
+        "217.ご紹介キャンペーン",
+        "218.よくある質問"
+      ]
+    },
+    {
+      "keyword": "211",
+      "type": "text",
+      "message": "更新内容の変更依頼について\n\n【PCの場合】 \nカスタムメニューから「変更内容反映」を実行\n\n【スマホ】\n画面下部より、スマホ用メニューシートを開き、実行したいメニューのチェックを入れてください。\n5分以内で自動実行されます。",
+      "options": []
+    },
+    {
+      "keyword": "212",
+      "type": "text",
+      "message": "エラー報告：https://forms.gle/v3mgBcDqHW83FrK77",
+      "options": []
+    },
+    {
+      "keyword": "213",
+      "type": "text",
+      "message": "下記フォームよりお知らせください。\nID・PASS変更報告フォーム：https://forms.gle/XnQbp1XCJ99pSdm8A",
+      "options": []
+    },
+    {
+      "keyword": "214",
+      "type": "text",
+      "message": "ご利用料金の支払いについて\nクレジットカードのみとなっております。",
+      "options": []
+    },
+    {
+      "keyword": "215",
+      "type": "text",
+      "message": "下記フォームをご入力ください。\n契約内容の変更フォーム：https://forms.gle/rUXQd9w8PTTMytKP8",
+      "options": []
+    },
+    {
+      "keyword": "216",
+      "type": "text",
+      "message": "こんな機能があれば嬉しい等、なんでもご相談ください！\n目安箱：https://forms.gle/uWBgeC1yDWdeSsiL6",
+      "options": []
+    },
+    {
+      "keyword": "217",
+      "type": "text",
+      "message": "ご紹介いただけばいただくほど月額料金が割引になります！\n※ご紹介いただいた方がご利用開始した場合に限る。\n下記フォームよりご入力ください。\nhttps://forms.gle/2w398daQrwakTJmQ7",
+      "options": []
+    },
+    {
+      "keyword": "218",
+      "type": "text",
+      "message": "よくある質問",
+      "options": []
+    },
+    {
+      "keyword": "219",
+      "type": "text",
+      "message": "お問い合わせフォーム：https://forms.gle/9V3ev5S7Qxfg2tYeA",
+      "options": []
+    },
+    {
+      "keyword": "E",
+      "type": "quickReply",
+      "message": "ECモールに関するご案内",
+      "options": [
+        "221.商品の出品登録申請",
+        "229.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "221",
+      "type": "quickReply",
+      "message": "・共有フォルダ内の「【〇〇様入力用】商品登録シート」に入力。\n・登録用画像は商品画像フォルダにアップロードしてください。\n・上記が終わったら反映申請フォームよりご連絡ください。\n　URL：https://forms.gle/G4LFa5VacTdMRQVF7\n\n\n詳細は下記よりご確認ください。\n商品の追加方法について：https://drive.google.com/file/d/1S_-H2WW1DGTxqmEIyw_5RPYA1G177qSb/view",
+      "options": [
+        "221.商品の出品登録申請",
+        "229.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "229",
+      "type": "quickReply",
+      "message": "その他のお問い合わせは下記よりお願いいたします。\nお問い合わせフォーム：https://forms.gle/VzNnzQq1abRjJ3qb6",
+      "options": [
+        "221.商品の出品登録申請",
+        "229.お問い合わせ"
+      ]
+    },
+    {
+      "keyword": "F",
+      "type": "quickReply",
+      "message": "代理店用メニュー",
+      "options": [
+        "231.代理店契約について",
+        "232.クレカ支払い登録フロー",
+        "233.月次報告",
+        "239.その他"
+      ]
+    },
+    {
+      "keyword": "231",
+      "type": "quickReply",
+      "message": "代理店申し込みフォーム：https://forms.gle/HGmJFB1jbhzVih8u5",
+      "options": [
+        "231.代理店契約について",
+        "232.クレカ支払い登録フロー",
+        "233.月次報告",
+        "239.その他"
+      ]
+    },
+    {
+      "keyword": "232",
+      "type": "quickReply",
+      "message": "下記フォームより、クレカ支払いに必要な情報を入力の上ご一報ください。\nクレカ支払い登録用フォーム：https://forms.gle/fUoi1j5cL1mxniH59",
+      "options": [
+        "231.代理店契約について",
+        "232.クレカ支払い登録フロー",
+        "233.月次報告",
+        "239.その他"
+      ]
+    },
+    {
+      "keyword": "233",
+      "type": "quickReply",
+      "message": "準備中",
+      "options": [
+        "231.代理店契約について",
+        "232.クレカ支払い登録フロー",
+        "233.月次報告",
+        "239.その他"
+      ]
+    },
+    {
+      "keyword": "239",
+      "type": "quickReply",
+      "message": "以下より\nhttps://notebooklm.google.com/notebook/c3e61035-9030-40da-a024-4408edfc9359",
+      "options": [
+        "231.代理店契約について",
+        "232.クレカ支払い登録フロー",
+        "233.月次報告",
+        "239.その他"
+      ]
+    }
+  ]
+}
