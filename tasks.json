@@ -57,6 +57,15 @@
       "day_of_month": 10,
       "priority": "high",
       "status": "todo"
+    },
+    {
+      "id": 104,
+      "title": "提供サービス 入金状況確認",
+      "description": "提供サービスの入金状況を確認する",
+      "recurring": "monthly",
+      "day_of_month": 1,
+      "priority": "high",
+      "status": "todo"
     }
   ]
 }
