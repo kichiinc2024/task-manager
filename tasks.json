@@ -27,5 +27,17 @@
       "status": "todo",
       "progress": 0
     }
+  ],
+  "recurring_tasks": [
+    {
+      "id": 101,
+      "title": "社内会議",
+      "description": "毎週金曜 13:00〜",
+      "recurring": "weekly",
+      "day_of_week": "friday",
+      "time": "13:00",
+      "priority": "high",
+      "status": "todo"
+    }
   ]
 }
