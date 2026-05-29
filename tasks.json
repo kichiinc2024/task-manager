@@ -37,7 +37,8 @@
       "day_of_week": "friday",
       "time": "13:00",
       "priority": "high",
-      "status": "todo"
+      "status": "todo",
+      "meeting_url": "https://meet.google.com/pvn-onhg-hgy"
     },
     {
       "id": 102,
