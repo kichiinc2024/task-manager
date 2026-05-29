@@ -48,6 +48,15 @@
       "priority": "high",
       "status": "todo",
       "targets": ["RISE", "nIka"]
+    },
+    {
+      "id": 103,
+      "title": "バクステ代理店 契約状況確認",
+      "description": "バクステ代理店の契約状況を確認する",
+      "recurring": "monthly",
+      "day_of_month": 10,
+      "priority": "high",
+      "status": "todo"
     }
   ]
 }
