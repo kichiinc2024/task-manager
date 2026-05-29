@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "サンプルタスク",
+      "description": "これはサンプルです。自由に編集してください。",
+      "deadline": "2026-06-10",
+      "priority": "high",
+      "status": "in_progress",
+      "progress": 30
+    },
+    {
+      "id": 2,
+      "title": "ドキュメント整備",
+      "description": "READMEとWikiを更新する",
+      "deadline": "2026-06-05",
+      "priority": "medium",
+      "status": "todo",
+      "progress": 0
+    },
+    {
+      "id": 3,
+      "title": "週次レビュー準備",
+      "description": "先週の振り返りと今週の目標設定",
+      "deadline": "2026-05-30",
+      "priority": "high",
+      "status": "todo",
+      "progress": 0
+    }
+  ]
+}
