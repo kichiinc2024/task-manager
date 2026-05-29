@@ -38,6 +38,16 @@
       "time": "13:00",
       "priority": "high",
       "status": "todo"
+    },
+    {
+      "id": 102,
+      "title": "給与計算用売上データ取得",
+      "description": "ヘアサロン RISE と nIka の売上データを取得し、給与計算に使用する",
+      "recurring": "monthly",
+      "day_of_month": 1,
+      "priority": "high",
+      "status": "todo",
+      "targets": ["RISE", "nIka"]
     }
   ]
 }
